@@ -1,0 +1,12 @@
+title: Tharun’s Online Resume Website
+description: A static online resume website about my Skill set, Projects, etc.
+baseurl: "" 
+url: " https://tharunr-17.github.io/TharunR-Resume/" 
+theme: null
+markdown: kramdown
+plugins: []
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
